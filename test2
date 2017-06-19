@@ -1,0 +1,917 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <meta name="ProgId" content="Excel.Sheet"/>
+  <meta name="Generator" content="WPS Office ET"/>
+  <!--[if gte mso 9]>
+   <xml>
+    <o:DocumentProperties>
+     <o:Created>2017-06-13T20:11:06</o:Created>
+     <o:LastSaved>2017-06-13T20:28:11</o:LastSaved>
+    </o:DocumentProperties>
+    <o:CustomDocumentProperties>
+     <o:KSOProductBuildVer dt:dt="string">1033-10.2.0.5845</o:KSOProductBuildVer>
+    </o:CustomDocumentProperties>
+   </xml>
+  <![endif]-->
+  <style>
+<!-- @page
+	{margin:0.98in 0.75in 0.98in 0.75in;
+	mso-header-margin:0.51in;
+	mso-footer-margin:0.51in;}
+tr
+	{mso-height-source:auto;
+	mso-ruby-visibility:none;}
+col
+	{mso-width-source:auto;
+	mso-ruby-visibility:none;}
+br
+	{mso-data-placement:same-cell;}
+.font0
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font1
+	{color:#000000;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Unicode MS";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font2
+	{color:#000000;
+	font-size:9.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font3
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font4
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font5
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font6
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font7
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font9
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font10
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font11
+	{color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font12
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font13
+	{color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font14
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font15
+	{color:#800080;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font16
+	{color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font17
+	{color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font18
+	{color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font20
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font21
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Calibri";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.style0
+	{mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;
+	mso-style-name:"Normal";
+	mso-style-id:0;}
+.style16
+	{mso-pattern:auto none;
+	background:#BDD7EE;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent1";}
+.style17
+	{mso-number-format:"_ * \#\,\#\#0\.00_ \;_ * \\-\#\,\#\#0\.00_ \;_ * \0022-\0022??_ \;_ \@_ ";
+	mso-style-name:"Comma";
+	mso-style-id:3;}
+.style18
+	{mso-number-format:"_ * \#\,\#\#0_ \;_ * \\-\#\,\#\#0_ \;_ * \0022-\0022_ \;_ \@_ ";
+	mso-style-name:"Comma [0]";
+	mso-style-id:6;}
+.style19
+	{mso-number-format:"_\(\\$* \#\,\#\#0_\)\;_\(\\$* \\\(\#\,\#\#0\\\)\;_\(\\$* \0022-\0022_\)\;_\(\@_\)";
+	mso-style-name:"Currency [0]";
+	mso-style-id:7;}
+.style20
+	{mso-number-format:"_\(\\$* \#\,\#\#0\.00_\)\;_\(\\$* \\\(\#\,\#\#0\.00\\\)\;_\(\\$* \0022-\0022??_\)\;_\(\@_\)";
+	mso-style-name:"Currency";
+	mso-style-id:4;}
+.style21
+	{mso-number-format:"0%";
+	mso-style-name:"Percent";
+	mso-style-id:5;}
+.style22
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	border:2.0pt double #3F3F3F;
+	mso-style-name:"Check Cell";}
+.style23
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 2";}
+.style24
+	{mso-pattern:auto none;
+	background:#FFFFCC;
+	border:.5pt solid #B2B2B2;
+	mso-style-name:"Note";}
+.style25
+	{color:#0000FF;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Hyperlink";
+	mso-style-id:8;}
+.style26
+	{mso-pattern:auto none;
+	background:#FFD966;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent4";}
+.style27
+	{color:#800080;
+	font-size:11.0pt;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:Calibri;
+	mso-style-name:"Followed Hyperlink";
+	mso-style-id:9;}
+.style28
+	{mso-pattern:auto none;
+	background:#DBDBDB;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent3";}
+.style29
+	{color:#FF0000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Warning Text";}
+.style30
+	{mso-pattern:auto none;
+	background:#F8CBAD;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent2";}
+.style31
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	mso-style-name:"Title";}
+.style32
+	{color:#7F7F7F;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"CExplanatory Text";}
+.style33
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #5B9BD5;
+	mso-style-name:"Heading 1";}
+.style34
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	border-bottom:1.0pt solid #ACCCEA;
+	mso-style-name:"Heading 3";}
+.style35
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	mso-style-name:"Heading 4";}
+.style36
+	{mso-pattern:auto none;
+	background:#FFCC99;
+	color:#3F3F76;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Input";}
+.style37
+	{mso-pattern:auto none;
+	background:#C9C9C9;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent3";}
+.style38
+	{mso-pattern:auto none;
+	background:#C6EFCE;
+	color:#006100;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Good";}
+.style39
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#3F3F3F;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	border:.5pt solid #3F3F3F;
+	mso-style-name:"Output";}
+.style40
+	{mso-pattern:auto none;
+	background:#DDEBF7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent1";}
+.style41
+	{mso-pattern:auto none;
+	background:#F2F2F2;
+	color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	border:.5pt solid #7F7F7F;
+	mso-style-name:"Calculation";}
+.style42
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	border-bottom:2.0pt double #FF8001;
+	mso-style-name:"Linked Cell";}
+.style43
+	{color:#000000;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	border-top:.5pt solid #5B9BD5;
+	border-bottom:2.0pt double #5B9BD5;
+	mso-style-name:"Total";}
+.style44
+	{mso-pattern:auto none;
+	background:#FFC7CE;
+	color:#9C0006;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Bad";}
+.style45
+	{mso-pattern:auto none;
+	background:#FFEB9C;
+	color:#9C6500;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Neutral";}
+.style46
+	{mso-pattern:auto none;
+	background:#5B9BD5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Accent1";}
+.style47
+	{mso-pattern:auto none;
+	background:#D9E1F2;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent5";}
+.style48
+	{mso-pattern:auto none;
+	background:#9BC2E6;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent1";}
+.style49
+	{mso-pattern:auto none;
+	background:#ED7D31;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Accent2";}
+.style50
+	{mso-pattern:auto none;
+	background:#FCE4D6;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent2";}
+.style51
+	{mso-pattern:auto none;
+	background:#E2EFDA;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent6";}
+.style52
+	{mso-pattern:auto none;
+	background:#F4B084;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent2";}
+.style53
+	{mso-pattern:auto none;
+	background:#A5A5A5;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Accent3";}
+.style54
+	{mso-pattern:auto none;
+	background:#EDEDED;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent3";}
+.style55
+	{mso-pattern:auto none;
+	background:#FFC000;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Accent4";}
+.style56
+	{mso-pattern:auto none;
+	background:#FFF2CC;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"20% - Accent4";}
+.style57
+	{mso-pattern:auto none;
+	background:#FFE699;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent4";}
+.style58
+	{mso-pattern:auto none;
+	background:#4472C4;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Accent5";}
+.style59
+	{mso-pattern:auto none;
+	background:#B4C6E7;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent5";}
+.style60
+	{mso-pattern:auto none;
+	background:#8EA9DB;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent5";}
+.style61
+	{mso-pattern:auto none;
+	background:#70AD47;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"Accent6";}
+.style62
+	{mso-pattern:auto none;
+	background:#C6E0B4;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"40% - Accent6";}
+.style63
+	{mso-pattern:auto none;
+	background:#A9D08E;
+	color:#FFFFFF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:0;
+	mso-style-name:"60% - Accent6";}
+td
+	{mso-style-parent:style0;
+	padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	mso-number-format:"General";
+	text-align:general;
+	vertical-align:middle;
+	white-space:nowrap;
+	mso-rotate:0;
+	color:#000000;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri;
+	mso-font-charset:134;
+	border:none;
+	mso-protection:locked visible;}
+.xl65
+	{mso-style-parent:style0;
+	text-align:center;
+	font-size:10.0pt;
+	font-weight:700;
+	font-family:Arial Unicode MS;
+	mso-font-charset:134;}
+.xl66
+	{mso-style-parent:style0;
+	text-align:left;
+	vertical-align:top;
+	white-space:normal;
+	font-size:9.0pt;
+	font-family:Arial;
+	mso-font-charset:134;
+	border:.5pt solid windowtext;}
+ -->  </style>
+  <!--[if gte mso 9]>
+   <xml>
+    <x:ExcelWorkbook>
+     <x:ExcelWorksheets>
+      <x:ExcelWorksheet>
+       <x:Name>Defect_ExportedList (5)</x:Name>
+       <x:WorksheetOptions>
+        <x:DefaultRowHeight>300</x:DefaultRowHeight>
+        <x:StandardWidth>2338</x:StandardWidth>
+        <x:Selected/>
+        <x:Panes>
+         <x:Pane>
+          <x:Number>3</x:Number>
+          <x:ActiveCol>2</x:ActiveCol>
+          <x:ActiveRow>2</x:ActiveRow>
+          <x:RangeSelection>C3</x:RangeSelection>
+         </x:Pane>
+        </x:Panes>
+        <x:DoNotDisplayGridlines/>
+        <x:ProtectContents>False</x:ProtectContents>
+        <x:ProtectObjects>False</x:ProtectObjects>
+        <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
+        <x:Print>
+         <x:PaperSizeIndex>9</x:PaperSizeIndex>
+        </x:Print>
+       </x:WorksheetOptions>
+      </x:ExcelWorksheet>
+     </x:ExcelWorksheets>
+     <x:ProtectStructure>False</x:ProtectStructure>
+     <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
+     <x:WindowHeight>8370</x:WindowHeight>
+     <x:WindowWidth>20385</x:WindowWidth>
+    </x:ExcelWorkbook>
+   </xml>
+  <![endif]-->
+ </head>
+ <body link="blue" vlink="purple">
+  <table width="705" border="0" cellpadding="0" cellspacing="0" style='width:528.75pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="31" style='mso-width-source:userset;mso-width-alt:1133;'/>
+   <col width="513" style='mso-width-source:userset;mso-width-alt:18760;'/>
+   <col width="161" style='mso-width-source:userset;mso-width-alt:5887;'/>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl65" height="20" width="705" colspan="3" style='height:15.00pt;width:528.75pt;border-right:none;border-bottom:none;' x:str>Defect</td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" style='height:15.00pt;' x:str>ID</td>
+    <td class="xl66" x:str>Title</td>
+    <td class="xl66" x:str>Defect Status</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="2316.">###</td>
+    <td class="xl66" x:str>Forms/Policies/View: Sencha Impl: Exporting the list in Doc/ pdf format , Allignment is not proper for the columns</td>
+    <td class="xl66" x:str>QC Verified</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="2849.">###</td>
+    <td class="xl66" x:str>PPM &amp; Main Build: Validation policy: &quot;Is Changed&quot;/ &quot;Is not changed&quot; conditions does not work properly</td>
+    <td class="xl66" x:str>On Hold</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3061.">###</td>
+    <td class="xl66" x:str>Main Build and PPM : Complete Task not displayed from Actions menu when the task is viewed.</td>
+    <td class="xl66" x:str>Not An Issue - Verified</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3246.">###</td>
+    <td class="xl66" x:str>PPM : Event Driven policy for Task: Create a policy taking Any Event, and Action say &quot;Add Task&quot; /&quot;Complete Task&quot;and then we find that in the Target item is selected.</td>
+    <td class="xl66" x:str>QC Verified</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3364.">###</td>
+    <td class="xl66" x:str>PPM: Chart: Color for Report is not working any Chart Pie/Matrix ; Chart preview is rendered with random chart colors</td>
+    <td class="xl66" x:str>Not An Issue</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3427.">###</td>
+    <td class="xl66" x:str>PPM:Dashboard &gt; Catalog gadget &gt; hyperlink &gt; add record &gt; select entities &gt; Portfolio entities are not exposedde</td>
+    <td class="xl66" x:str>Need More Discussion</td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" style='height:15.00pt;' x:num="3428.">###</td>
+    <td class="xl66" x:str>PPM: Unsupported reports time sheet,user,shared,global are coming in report gadget</td>
+    <td class="xl66" x:str>Back To Development</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3433.">###</td>
+    <td class="xl66" x:str>PPM: Dashboard : Report Gadget: Task Report is not coming in Report gadget</td>
+    <td class="xl66" x:str>Closed Due to Design Changes</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3434.">###</td>
+    <td class="xl66" x:str>PPM: Dashboard : Report Gadget: Entity Report is not coming in Report gadget</td>
+    <td class="xl66" x:str>Closed Due to Design Changes</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3435.">###</td>
+    <td class="xl66" x:str>PPM: Dashboard : Report Gadget: In PPM level Dashboard, in Report type dropdown Workspace level dashboard should not come</td>
+    <td class="xl66" x:str>Fixed And Uploaded</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3436.">###</td>
+    <td class="xl66" x:str>PPM: Dashboard : Report Gadget: If Report Type Portfolio level Reports is chosen then shared report and workspace reports should not come</td>
+    <td class="xl66" x:str>Fixed And Uploaded</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3650.">###</td>
+    <td class="xl66" x:str>PPM : All the users are not displayed who are assigned to Role that is selected in Workspace Users &amp; Roles Field of a record in Entity Multi-Edit page.</td>
+    <td class="xl66" x:str>Fixed And Uploaded</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3728.">###</td>
+    <td class="xl66" x:str>PPM : Composite Filter : Records not retrieved accordingly when search criteria is given as Heading value when composite filtering is done.</td>
+    <td class="xl66" x:str>Technical Constraints</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="3729.">###</td>
+    <td class="xl66" x:str>PPM: RTF: In the view mode of the Record, the data entered in the RTF field say Few Paragraph and Tables. the last row of the table is not viewed properly.</td>
+    <td class="xl66" x:str>QC Verified</td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" style='height:15.00pt;' x:num="3739.">###</td>
+    <td class="xl66" x:str>PPM: RTF: Image is appearing as broken in RTF fields</td>
+    <td class="xl66" x:str>QC Verified</td>
+   </tr>
+   <tr height="20" style='height:15.00pt;'>
+    <td class="xl66" height="20" style='height:15.00pt;' x:num="3830.">###</td>
+    <td class="xl66" x:str>Lookup: When try to delete dependent lookup item, no pop up for replacing the value appears</td>
+    <td class="xl66" x:str>Not An Issue</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="4557.">###</td>
+    <td class="xl66" x:str>Kovair8.6:-The check box in header for all Tools do not get checked automatically when all the existing Tools are checked separately in Tools tab in export omnibus configuration module.</td>
+    <td class="xl66" x:str>Fixed And Uploaded</td>
+   </tr>
+   <tr height="48" style='height:36.00pt;'>
+    <td class="xl66" height="48" style='height:36.00pt;' x:num="4565.">###</td>
+    <td class="xl66" x:str>Kovair Installer 8.6: When list page is exported then the time value for DateTime field is not showing proper value.Any image lookup value if present in exported document is showing improper value.</td>
+    <td class="xl66" x:str>Could Not Recreate - Verified</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="4898.">###</td>
+    <td class="xl66" x:str>AMAT Scenario 8.6: In the Dashboard, Tabular report has 50 record, but it displays only 20 record. Should have a more link for viewing another 30 records</td>
+    <td class="xl66" x:str>Fixed And Uploaded</td>
+   </tr>
+   <tr height="32" style='height:24.00pt;'>
+    <td class="xl66" height="32" style='height:24.00pt;' x:num="4951.">###</td>
+    <td class="xl66" x:str>AMAT Scenario 8.6: When trying to relate a record--&gt; gives a message &quot;ls specify view and filter for command execution&quot; even if view and filter are selected</td>
+    <td class="xl66" x:str>Could Not Recreate - Verified</td>
+   </tr>
+   <![if supportMisalignedColumns]>
+    <tr width="0" style='display:none;'>
+     <td width="31" style='width:23;'></td>
+     <td width="513" style='width:385;'></td>
+     <td width="161" style='width:121;'></td>
+    </tr>
+   <![endif]>
+  </table>
+ </body>
+</html>
